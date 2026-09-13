@@ -39,3 +39,5 @@ A Web-based Outcome-Based Education (OBE) Result Management System built with PH
 Developed by:
 * **Fatema Islam Ivy**
 * **Md. Zahidul Islam**
+* **Nishat Jahan Nabila**
+* 
